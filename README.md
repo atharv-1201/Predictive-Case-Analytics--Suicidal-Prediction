@@ -1,1 +1,1 @@
-# Predictive-Case-Analytics--Sucidal-Prediction
+# Predictive-Case-Analytics--Suicidal-Prediction
